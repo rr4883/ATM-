@@ -1,1 +1,1 @@
-This is a simple c language program where it works what a atm machine does.This program can create an account by entering password to your account and entering minimum amount to your account.Besides this, you can view your balance,make deposits,withraw and can transfer the amount.
+This is a simple c language program where it works likw what an atm machine does.This program can create an account by entering password to your account and entering minimum amount to your account.Besides this, you can view your balance,make deposits,withraw and can transfer the amount.
